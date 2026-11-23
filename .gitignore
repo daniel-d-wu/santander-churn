@@ -1,0 +1,15 @@
+# Data: Kaggle competition files may not be redistributed (and are ~2.3 GB)
+data/
+*.csv
+*.csv.zip
+*.zip
+*.parquet
+
+# Jupyter / environment
+.ipynb_checkpoints/
+.jupyter/
+.jupyter_ystore.db
+anaconda_projects/
+__pycache__/
+.env
+kaggle.json
